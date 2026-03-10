@@ -1,5 +1,4 @@
 langchain
-wikipedia
 langchain-community
 langchain-openai
 python-dotenv
@@ -9,3 +8,4 @@ langchain-core
 langchain-classic
 duckduckgo-search
 langgraph
+yfinance
